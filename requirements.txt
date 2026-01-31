@@ -1,0 +1,28 @@
+# Polymarket API
+py-clob-client>=0.16.0
+
+# LLM APIs
+anthropic>=0.45.0
+openai>=1.50.0
+
+# HTTP & Async
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# News & RSS
+feedparser>=6.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Terminal UI
+rich>=13.0.0
+
+# Database
+# SQLite is built-in, no extra package needed
+
+# Web3 (for wallet operations)
+eth-account>=0.11.0
